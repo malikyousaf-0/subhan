@@ -1,11 +1,12 @@
 * {
   margin: 0;
   padding: 0;
-/*   edit test branh */
+/*   this is a comment and i add it in main branch */
   box-sizing: border-box;
   color: rgb(194, 204, 212);
 }
 /* test branh */
+
 .banner {
   background-image: url("https://cdn.pixabay.com/photo/2016/08/03/09/04/universe-1566161__340.jpg");
   height: 64vh;
